@@ -22,7 +22,7 @@
     - 参与者：表示的是一个系统用户，也就是与应用程序进行交互的用户、组织或者外部系统。
     ![](https://github.com/vyychenyy/vyychenyy.github.io/blob/master/_posts/image-20190523231020455.png)
     - 用例：表示的是对系统提供的功能、服务的一种描述。
-    ![](https://github.com/vyychenyy/vyychenyy.github.io/blob/master/_posts/image-20190523231020455.png)
+    ![](https://github.com/vyychenyy/vyychenyy.github.io/blob/master/_posts/usecase.png)
     - 用例之间的关系：
         - 包含关系：表示用例可以简单地包含其他用例所具有的行为，并把它所包含的用例行为作为自身行为的一部分。
             ![](https://github.com/vyychenyy/vyychenyy.github.io/blob/master/_posts/include.png)
