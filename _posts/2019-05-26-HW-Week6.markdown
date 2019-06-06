@@ -18,20 +18,20 @@
 
 - 用例图的基本符号与元素？
     - 系统：包含外部可见的功能。
-![](system.png)
+![](https://raw.githubusercontent.com/vyychenyy/vyychenyy.github.io/master/_posts/system.png)
     - 参与者：表示的是一个系统用户，也就是与应用程序进行交互的用户、组织或者外部系统。
-    ![](https://github.com/vyychenyy/vyychenyy.github.io/blob/master/_posts/image-20190523231020455.png)
+    ![](https://raw.githubusercontent.com/vyychenyy/vyychenyy.github.io/master/_posts/image-20190523231020455.png)
     - 用例：表示的是对系统提供的功能、服务的一种描述。
-    ![](https://github.com/vyychenyy/vyychenyy.github.io/blob/master/_posts/usecase.png)
+    ![](https://raw.githubusercontent.com/vyychenyy/vyychenyy.github.io/master/_posts/usecase.png)
     - 用例之间的关系：
         - 包含关系：表示用例可以简单地包含其他用例所具有的行为，并把它所包含的用例行为作为自身行为的一部分。
-            ![](https://github.com/vyychenyy/vyychenyy.github.io/blob/master/_posts/include.png)
+            ![](https://raw.githubusercontent.com/vyychenyy/vyychenyy.github.io/master/_posts/include.png)
         - 泛化关系：指的是一个父用例可以被特化形成多个子用例，而父用例和子用例之间的关系就是泛化关系。
-            ![](https://github.com/vyychenyy/vyychenyy.github.io/blob/master/_posts/generalization.png)
+            ![](https://raw.githubusercontent.com/vyychenyy/vyychenyy.github.io/master/_posts/generalization.png)
         - 关联关系：表示的是参与者与用例之间的关系。在UML中常用一条直线，或者是一条带箭头的线条来表示，箭头指向信息接收方。
-            ![](https://github.com/vyychenyy/vyychenyy.github.io/blob/master/_posts/association.png)
+            ![](https://raw.githubusercontent.com/vyychenyy/vyychenyy.github.io/master/_posts/association.png)
         - 扩展关系：表示在一定条件下，把新的行为加入到已有的用例中，获得的新用例叫做扩展用例，原有的用例叫做基础用例，相当于为基础用例提供一个附加功能。
-            ![](https://github.com/vyychenyy/vyychenyy.github.io/blob/master/_posts/extend.png)
+            ![](https://raw.githubusercontent.com/vyychenyy/vyychenyy.github.io/master/_posts/extend.png)
 
 
 - 用例图的画法与步骤
@@ -54,8 +54,8 @@
 粒度达到子用例级别，并用 include 和 exclude 关联它们
 请用色彩标注出你认为创新（区别于竞争对手的）用例或子用例
 尽可能识别外部系统和服务
- ![](https://github.com/vyychenyy/vyychenyy.github.io/blob/master/_posts/new.png)
- ![](https://github.com/vyychenyy/vyychenyy.github.io/blob/master/_posts/new2.png)
+ ![](https://raw.githubusercontent.com/vyychenyy/vyychenyy.github.io/master/_posts/new.png)
+ ![](https://raw.githubusercontent.com/vyychenyy/vyychenyy.github.io/master/_posts/new2.png)
 
 
 然后，回答下列问题：
