@@ -18,7 +18,7 @@
 
 - 用例图的基本符号与元素？
     - 系统：包含外部可见的功能。
-![](https://github.com/vyychenyy/vyychenyy.github.io/blob/master/_posts/system.png)
+![](system.png)
     - 参与者：表示的是一个系统用户，也就是与应用程序进行交互的用户、组织或者外部系统。
     ![](https://github.com/vyychenyy/vyychenyy.github.io/blob/master/_posts/image-20190523231020455.png)
     - 用例：表示的是对系统提供的功能、服务的一种描述。
