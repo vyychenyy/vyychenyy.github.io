@@ -1,9 +1,9 @@
 使用 UMLet 建模：
 1、根据订旅馆建模文档，Asg-RH.pdf：
-- 绘制用例图模型（到子用例）
+  - 绘制用例图模型（到子用例）
 [](https://raw.githubusercontent.com/vyychenyy/vyychenyy.github.io/master/_posts/6.png)
 
-- 给出 make reservation 用例的活动图
+  - 给出 make reservation 用例的活动图
 [](https://raw.githubusercontent.com/vyychenyy/vyychenyy.github.io/master/_posts/5.png)
 
 2、根据课程练习“投递员使用投递箱给收件人快递包裹”的业务场景
